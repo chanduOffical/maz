@@ -1,0 +1,7 @@
+{
+  "name": "MAZZURA — The Cultural Fashion OS",
+  "description": "Mazzura is a next-generation AI-powered cultural fashion ecosystem that learns your vibe, tone, and cultural background to deliver hyper-personalized fashion experiences.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
